@@ -27,4 +27,4 @@
 * [Delete Activity](https://docs.microsoft.com/en-us/azure/data-factory/delete-activity)
 ### 6- [Pipeline execution and triggers](https://docs.microsoft.com/en-us/azure/data-factory/concepts-pipeline-execution-triggers)
 
-# Data Ingestion
+# Data Ingestion From HTTP
