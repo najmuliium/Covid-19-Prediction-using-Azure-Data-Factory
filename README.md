@@ -19,10 +19,12 @@
 ### 2- [Linked services in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/concepts-linked-services?tabs=data-factory)
 ### 3- [Datasets in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/concepts-datasets-linked-services?tabs=data-factory)
 ### 4- [Create Pipelines and activities](https://docs.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities?tabs=data-factory)
-### 5- [Control Flow Activities]
+### 5- Control Flow Activities
 * [Validation Activity](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-validation-activity)
 * [Get Metadata Activity](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-get-metadata-activity)
 * [If Condition Activity](https://cognizant.udemy.com/course/learn-azure-data-factory-from-scratch/learn/lecture/23885532#content)
 * [Web Activity](https://docs.microsoft.com/en-us/azure/data-factory/control-flow-web-activity)
 * [Delete Activity](https://docs.microsoft.com/en-us/azure/data-factory/delete-activity)
 ### 6- [Pipeline execution and triggers](https://docs.microsoft.com/en-us/azure/data-factory/concepts-pipeline-execution-triggers)
+
+# Data Ingestion
